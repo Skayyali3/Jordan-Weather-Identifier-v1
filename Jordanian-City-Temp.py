@@ -1,12 +1,10 @@
 import tkinter as tk
-import os
-print(os.getcwd())
 x=tk.Tk()
 x.title("Weather in Top 5 Biggest Cities in Jordan")
 x.geometry('500x500')
 a=tk.Label(x,text="Enter the name of the city:",font=('bold',20))
 a.pack()
-lbl=tk.Label(x,text="(Amman, Madaba, Aqaba, Jerash, Irbid)",font=('italic',15))
+lbl=tk.Label(x,text="(Amman, Madaba, Aqaba, Jerash, Irbid)",font=('italic',15)) # Only minimal addition from modern day me for better UX
 lbl.pack()
 b=tk.Entry(x)
 b.pack()
