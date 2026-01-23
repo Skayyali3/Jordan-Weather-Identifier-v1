@@ -17,7 +17,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository and enter:
 ```bash
 git clone https://github.com/Skayyali3/Jordan-Weather-Identifier-v1.git
-JordanWeatherIdentifier-v1
+Jordan-Weather-Identifier-v1
 ```
 
 ### 2. Run
